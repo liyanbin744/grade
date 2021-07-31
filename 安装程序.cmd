@@ -1,0 +1,1 @@
+copy res C:\
